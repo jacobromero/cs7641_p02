@@ -1,12 +1,12 @@
 ### To run this code you need
 * Python 3.x
 
-### The following packages
+### and the following packages
 * numpy
 * pandas
 * matplotlib
 * scikitlearn
-* xgboost
+* mlrose_hiive
 
 ### Dataset urls
 * [Dataset 1](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset)
@@ -14,16 +14,16 @@
 
 ### Pulling the code, 
 The code is hosted on github at https://github.com/jacobromero/cs7641_p01 to get this code simply do:
-`git clone https://github.com/jacobromero/cs7641_p01.git`
+`git clone https://github.com/jacobromero/cs7641_p02.git`
 
-Alternatively you can download the code from google drive at, https://drive.google.com/drive/folders/1xWbuXf5v-WFC5qc5uN1NaDEdybAcqwtF?usp=sharing
+Alternatively you can download the code from google drive at, *Redacted*
 
 ### To Run this code
 The project is intended to be run as a python juypter note book via `jupyter notebook` command.
 This requires juypter installed via `pip install juypter`.
 
 Alternatively the notebook has been exported to python from the juypter notebook, and can be run with
-`python3 project_01_notebook.py`
+`python3 project_02_notebook.py`
 However it is recommended to view the code via the notebook still.
 
 #### Loading the data
